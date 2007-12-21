@@ -8,6 +8,7 @@ Source0:	http://metalink-library.googlecode.com/files/%{oname}-%{version}.tar.bz
 URL:		http://code.google.com/p/metalink-library/
 License:	GPLv2
 Group:		Development/Python
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 
 %description
