@@ -3,7 +3,7 @@
 Summary:	Python library for generating metalinks
 Name:		python-metalink
 Version:	1.0
-Release:	%mkrel 5
+Release:	%mkrel 6
 Source0:	http://metalink-library.googlecode.com/files/%{oname}-%{version}.tar.bz2
 URL:		http://code.google.com/p/metalink-library/
 License:	GPLv2
