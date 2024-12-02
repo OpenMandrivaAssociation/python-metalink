@@ -10,6 +10,7 @@ License:	GPLv2
 Group:		Development/Python
 BuildArch:	noarch
 BuildRequires:	python
+BuildRequires:	python%{pyver}dist(poetry)
 BuildSystem:	python
 
 %description
