@@ -3,7 +3,7 @@
 Summary:	Python library for generating metalinks
 Name:		python-metalink
 Version:	6.5.3
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/p/pymetalink/pymetalink-%{version}.tar.gz
 URL:		https://github.com/metalink-dev/pymetalink
 License:	GPLv2
